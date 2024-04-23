@@ -19,7 +19,7 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Akash) 
 
 ## watch my contributions graph eaten by the snake 🐍
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AkashShnkr/AkashShnkr/blob/output/github-contribution-grid-snake.gif)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
